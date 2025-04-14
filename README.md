@@ -1,1 +1,1 @@
-Due to som github constraints, some math expressions cannot be showed correctly in the md file. Please download and open it in your local md reader.
+Due to som github limitations, some mathmatical expressions may not display correctly in the markdown file. Please download and open it in your local markdown viewer.
